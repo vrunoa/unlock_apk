@@ -25,6 +25,7 @@
   "homepage": "https://github.com/appium/unlock_apk",
   "dependencies": {
     "appium-adb": "^2.6.18",
+    "appium-android-driver": "^1.10.28",
     "appium-logger": "^2.1.0",
     "asyncbox": "^2.3.1",
     "babel-cli": "^6.16.0",
